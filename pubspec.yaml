@@ -48,7 +48,7 @@ dependencies:
   image_gallery_saver_plus: ^4.0.1
   url_launcher: ^6.3.0
   open_filex: ^4.4.0
-  whatsapp_share2: ^2.1.1
+
   qr_flutter: ^4.1.0
   printing: ^5.13.4
   pdf: ^3.11.0
